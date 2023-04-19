@@ -1,4 +1,3 @@
-
 def decode_char(morse)
 morse_code = {
 ".-" => "A",
