@@ -16,7 +16,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖Vet Clinic Database <a name="about-project"></a>
+# 📖Morse Code <a name="about-project"></a>
 
 **Morse Code **
 ## 🛠 Built With <a name="built-with"></a>
