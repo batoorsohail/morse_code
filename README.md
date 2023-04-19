@@ -24,7 +24,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Database</summary>
+<summary>Ruby</summary>
   <ul>
     <li><a href="#">Ruby</a></li>
   </ul>
@@ -34,7 +34,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Decode Morse Code**
+**Decode Morse Code**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
