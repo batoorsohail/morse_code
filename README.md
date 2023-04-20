@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # Morse Code
 
 # 📗 Table of Contents
@@ -9,6 +11,7 @@
 - [💻 Getting Started ](#-getting-started-)
   - [Setup](#setup)
 - [👥 Authors](#authors)
+- [🔭 Future Features ](#-future-features-)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -76,6 +79,12 @@ Run the `morse` file
 - GitHub: [@yemisrach](https://github.com/Yemisirach)
 - Twitter: [@Yemisirach](https://twitter.com/tamiratyemsrach)
 - LinkedIn: [@Yemisirach](https://www.linkedin.com/in/yemisirach)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+For the future features we will add Morse Code to change other languages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
